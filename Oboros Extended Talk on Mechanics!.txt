@@ -1,0 +1,52 @@
+July 10th 2013
+
+Hey guys, I read through the "Ideas" file and have some things to say about creating an original card game. 
+A lot of times you have a clear idea in your head of what you see the game looking like, but unless you can describe it in full detail, on it's own terms-- then your team will be lost!! 
+
+Disclaimer:
+And these are just opinions, so don't take them too seriously or think that I'm laying down the law-- I'm just sharing just some conventions that've helped me and teams I've worked with in a past to garner creativity and establish a direction for the project, so that the planning stage doesn't last any longer than it needs to! 
+(Trust me, you can brainstorm forever, but working within your boundaries is far more important!)
+
+
+First off: Mechanics, mechanics, mechanics! 
+Independent games aren't about flashy graphics or super extensive features, they're about simple, easy to play, but dynamic ideas! 
+I LOVE the idea of a card/collectible game (which is the reason I'm here, of course!) But it's been done so many times, what's to stop someone from just playing Magic over our game? The key is "originality!"
+Sure, there are some conventions in other card games that are fun, and using them isn't a bad thing. But the mechanics of this card game should be somewhat unique. 
+I loved the idea of having nations getting bonuses for fighting with allies. (Magic TCG uses the "Battalion" modifier for the same effect) and those types of ideas of having cards that interact with each other is very important. 
+
+What you have to realize about card games in general is that the BASIC mechanic is about your "Curves" (... no, not your those types of curves) 
+Which is based on chance. The chance that you're going draw X amount of something. 
+The more cards you draw, the less of chance you have to draw certain cards you have (if there are duplicates in the deck) and more a chance to draw cards you don't have. Make sense? 
+
+So making a battling card game is going to mean that you need to figure out this important question; "What does a typical deck of these cards look like?" 
+Meaning, how many cards are there? How many of those cards are supposed to interact with your opponent (in this case, creature cards, spells that affect your opp., etc) and how many cards are meant to effect you? (Land cards/Mana, buffs, creatures that help you etc.) 
+
+Next up, after(or even while) you've decided how decks will look and what type of curve they'll have; 
+"What turns are their in the game?" 
+Meaning, how does the battle take place. Who goes first? And what procedure do they take to build their status? 
+Their objective is to obviously beat the other person, but what do they want to do, to do so. 
+We also call these "Win Conditions" and card games mainly work off of them. And it's what differentiates a good deck, from a bad deck. The better deck has more win conditions! 
+
+You want to make sure that the game is balanced, and a lot of that comes from just playing the game over and over with all sorts of different card combinations (which will be fun to play test) but you might want to think of some early limitations now too. 
+
+And that brings me to something you've already mentioned a bit and that is CARD TYPES. 
+Spells and traps are good, but very general. You have to consider the way the game is played to balance such things. As an example, the way Magic TCG balances its "Spells" (which casting creatures is considered a spell, too) is by saying that some of them come out fast, and some come out slow. And the slow ones usually do more stuff. They're usually more powerful, and you can't do them during your opponents turn (they're called Sorcery cards) and spells that are fast can be cast at any point in time, even while being attacked! and those are called "Instants."
+
+A good grasp of various card battle systems would do well to help organize these things and their impact on the final game's playability. So I would definitely play some games and really pay attention to what's happening, and where "strategy" comes in. 
+
+Because it's all about strategy! That's the fun part of a trading card battle game, in that you can collect cards that work well together so that you can have more win conditions and make a better deck. Some cards are super weird and seem shitty by themselves, but when paired with another card (appropriately called a "Combo") they have a functionality. (this is where the curve comes in, since you're trying to draw cards that work together, but not all cards in your deck do, so the likelyhood of you getting X card is that cards "curve") 
+
+Another example, in Magic TCG, the most important curve is called your "mana curve" or "land curve" you use land cards to power your spells (this includes casting monsters) and having limited mana/land makes the game slow down to an acceptable pace. 
+This is an important curve to plan first, because it will dictate the speed of the game... 
+How fast can stuff happen, basically. Too fast, and the game becomes cumbersome, moving tons of cards around in a flash and it's done... too slow? and the game becomes boring. Most good/decent decks in Magic TCG can win a game in 6-8 turns. Great decks? as early as turn 2-3, and bad ones? ...well.. sometimes they never finish. 
+
+So think about it, and I'd like to hear everyone's thoughts on what I've shared.
+
+---------------------
+
+In a related note, I think it would be cool to have a different set-up completely than magic, in that, cards power other cards, instead of having lands. You draw your opening hand and create a "Team" of creatures, and creatures could use other means to come into play instead of being directly powered by mana/energy like in Pokemon and Magic TCG. 
+Example: If you had a zombie creature, he can only be summoned if you had a creature die that turn, and instead of your card going to the discard pile, it's stats are halved and added onto the zombies base stats (that are pretty low) 
+This type of card combo could be devastating if, let's say, there was another card that allowed you to target your opponents discard pile as well, and they had a big beefy creature in there from earlier in the game. |
+Stuff like that would be fun, I think. 
+
+That's all for now, I hope you're not dizzy from having to read so much! I know I am! 
