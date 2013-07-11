@@ -1,7 +1,0 @@
-Thought it could be usefull if everybody put him github account here
-so they can be easily invited once the repository is made.
-Don't have a github account? Go to: https://github.com/ and create one.
-
-Floyd : IAmABear
-Cyklow: Cyklow
-ECode: ECoode
