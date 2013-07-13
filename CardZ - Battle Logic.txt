@@ -1,0 +1,38 @@
+CardZ - Battle Logic Doc.
+-------------------------
+Main Author: ECode
+Last Edited: 2013/7/13 By: Ecode
+Description: This is ECode's opinion of game battle mechanic (logic).
+		There is mixed some fantastic ideas from Oboros too. 
+		If you edit this file, make it clean and understandable!
+		Also remember to notify what text is written by you and edit Last Edited, thanks!
+Keywords: The Basics, The Special Card, The Nation Combo, The Cast Meter
+-----------------------------------------------------------------------------------------------------------------------------
+
+The Basics:
+------------
+Battle is turn based and in campaign you go against the computer.
+You will get five cards for your use and when it's your turn you can choose one of them to the battle arena.
+If you got cards on the battle arena you have to choose from Attacking enemy or Adding new card to arena.
+There will be maxium of cards in the battle area, but it can increase by level or even with spells(?)
+You can not harm the MAIN enemy (player) if there's creatures in the arena, except if you got a special card.
+
+The Special Cards:
+------------------
+There will be special cards, which makes game more interesting and fun.
+Special cards are rare but they affect the gameplay (enemies) huge! They can have example HUGE DAMAGE.
+What comes to gameplay, special cards are not just 'click' and 'attack'. 
+You will have to make custom rune figures by writing it with your mouse!
+If you're fast enough and the drawing is fine The Cast Meter rises.
+
+The Nation Combo:
+------------------
+As we know; You can choose at the registering part from three different nations to belong into.
+When you use same nations cards in a row you will earn Nation Combo.
+The Nation Combo makes your Cast Meter to rise.
+
+The Cast Meter:
+----------------
+The Cast Meter is meter which measures your combo and special card power.
+It rises everytime you success casting The Special Card and get good Nation Combo.
+When The Cast Meter gets full (100%), you get BONUS.
